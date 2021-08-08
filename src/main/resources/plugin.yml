@@ -1,0 +1,14 @@
+name: AbilityItems
+version: ${project.version}
+main: me.cheracc.abilityitems.AbilityItems
+api-version: 1.13
+authors: [ cheracc ]
+description: Create Ability Items that perform special abilities!
+website: jenkins.cheracc.me
+commands:
+  setability:
+    usage: /setability
+    description: places an ability onto a held item
+  abilities:
+    usage: /abilities
+    description: abilities
